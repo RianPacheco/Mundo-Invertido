@@ -78,13 +78,13 @@ e 10px de altura para a barra horizontal */
     width:10px;
     height: 10px;
     }  
-    /* aqui é para personalizar o fundo da barra, neste caso estou colocando um fundo cinza escuro*/
+    /* aqui é para personalizar o fundo da barra, neste caso estou colocando um fundo vermelho escuro*/
     ::-webkit-scrollbar-track {
     background:rgb(83, 15, 15);
     border-radius: 10px;
     }
     /* aqui é a alça da barra, que demonstra a altura que você está na página
-    estou colocando uma cor azul clara nela*/
+    estou colocando uma cor vermelho claro nela*/
     ::-webkit-scrollbar-thumb {
     background: var(--primary-color);
     border-radius: 15px;
