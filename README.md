@@ -8,7 +8,7 @@
  
  Ótimo projeto para treinar as habilidades com interfaces modernas e interativas..
 
-## Preview
+## 📊 Preview
 
 ![Visualização do design para o Mundo Invertido](https://media-exp1.licdn.com/dms/image/C4D22AQEhHMSxwrM7ZQ/feedshare-shrink_2048_1536/0/1661891973085?e=2147483647&v=beta&t=rEYSaF2VNDST0qSb9JG2pGpqfxJ1GBmGdZFd1YLap4g)
 
@@ -19,21 +19,21 @@
 <img src="./images/Preview/Preview-Desktop(5).PNG" />
 <img src="./images/Preview/Preview-Desktop(6).PNG" />
 
-# Tecnologias utilizadas
+# 💻 Tecnologias utilizadas
 
-## Front end
+## 🔅 Front end
 - HTML
 - CSS
 - JAVASCRIPT
 
-## BANCO DE DADOS
+## 🔏 BANCO DE DADOS
 - FIREBASE
 - FIRESTORE
 
-## Implantação em produção
+## 🌐 Implantação em produção
 - Front end web: GitHub.Io
 
-# Autor
+# © Autor
 
 &copy; <a href="https://www.linkedin.com/in/rian-pacheco/"> Rian Pacheco</a>
 
