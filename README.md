@@ -15,7 +15,13 @@
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS
+- HTML
+- CSS
+- JAVASCRIPT
+
+## BANCO DE DADOS
+- FIREBASE
+- FIRESTORE
 
 ## Implantação em produção
 - Front end web: GitHub.Io
